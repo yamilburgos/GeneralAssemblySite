@@ -1,13 +1,24 @@
-# Homework: GA Press Release!! 📰
+# General Assembly Press Release
+> A press release made for General Assembly.
 
-Now that we've learned an awesome amount of CSS, it's time to put it all together. For this homework you'll be writing your own HTML and CSS to create a press release for General Assembly.
+[![Build Status][travis-image]][travis-url]
 
-### You'll need to:
-- Attach the stylesheet `style.css` to `index.html`
-- Write the HTML for the page, using the content in `content.txt`, and style it!!!
-    - Use at least one pseudo-class or pseudo-element!!!
-    - Write a media query for desktop and make sure it's adaptive to different screen sizes!
-    - Optional: use a [Google Font](https://fonts.google.com/) or two!
-- Deploy it on GitHub pages.
+	https://yamilburgos.github.io/GeneralAssemblySite
 
-Attribution: (Content for the press release originally from [General Assembly blog](https://generalassemb.ly/blog/general-assembly-honored-mit-inclusive-innovation-competition/))
+![](demo.png)
+
+## Meta
+[Yamil Burgos](https://github.com/yamilburgos/) – yamil.burgos1293@gmail.com
+
+## Contributing
+1. Fork it (<https://github.com/yamilburgos/GeneralAssemblySite/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
+
+<!-- Markdown link & img dfn's -->
+[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/datadog-metrics
+[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
+[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
